@@ -1,2 +1,2 @@
-FROM /omkararadwad/website 
+FROM httpd:latest 
 ADD . /var/www/html
